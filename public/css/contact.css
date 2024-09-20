@@ -1,0 +1,53 @@
+.contact_main{
+    margin-top: 300px;
+    text-align: center;
+}
+.contact_h5{
+    margin-top: 50px;
+    text-align: center;
+    color: #2f3033;
+    opacity: 0.7;
+    /* margin-left: -390px; */
+
+}
+.contact_h1{
+    text-align: center;
+    color: #2f3033;
+    /* margin-left: -410px; */
+}
+
+
+
+.mail button{
+    padding: 12px;
+    width: 300px;
+    border-radius: 25px;
+    text-align: center;
+    /* margin-left: 430px; */
+    margin-top: 40px;
+    border: 1px solid #2f3033;
+}
+.mail button a{
+    color: #2f3033;
+}
+.mail button i{
+    color: #2f3033;
+    padding-left: 10px;
+}
+.btns{
+    /* margin-left: 500px; */
+    padding: 12px 12px;
+    margin-top: 50px;
+}
+.btn{
+    border-radius: 16px;
+    margin-left: 10px;
+    padding: 12px 12px;
+    text-align: center;
+}
+.btn1{
+    border-radius: 16px;
+    padding: 12px 12px;
+    margin-left: -40px;
+    text-align: center;
+}
